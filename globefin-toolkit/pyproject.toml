@@ -1,0 +1,8 @@
+[project]
+name = "globefin-toolkit"
+version = "0.1.0"
+description = "Python Program to transform the Exchange Rates and CPI from World Development Indicators for use in Local Project"
+requires-python = ">=3.12"
+
+[project.scripts]
+main = "main:main"
